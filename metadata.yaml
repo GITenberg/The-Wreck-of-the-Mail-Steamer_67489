@@ -1,0 +1,31 @@
+_repo: The-Wreck-of-the-Mail-Steamer_67489
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fischer, Anton Otto
+    birthdate: 1882
+    deathdate: 1962
+    gutenberg_agent_id: '8526'
+    url: http://www.gutenberg.org/2009/agents/8526
+creator:
+  author:
+    agent_name: Grenfell, Wilfred T.
+    gutenberg_agent_id: '54292'
+    url: http://www.gutenberg.org/2009/agents/54292
+description: ''
+gutenberg_issued: '2022-02-24'
+identifiers:
+  gutenberg: '67489'
+language: en
+pgterms:marc905: 20220212075352grenfell
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Sprague Publishing Company,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Wreck of the Mail Steamer
+url: http://www.gutenberg.org/ebooks/67489
