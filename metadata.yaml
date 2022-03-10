@@ -7,12 +7,17 @@ contributor:
     deathdate: 1962
     gutenberg_agent_id: '8526'
     url: http://www.gutenberg.org/2009/agents/8526
+covers:
+- cover_type: archival
+  image_path: 67489-h/images/cover.jpg
 creator:
   author:
     agent_name: Grenfell, Wilfred T.
     gutenberg_agent_id: '54292'
     url: http://www.gutenberg.org/2009/agents/54292
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67489#The-Wreck-of-the-Mail-Steamer
 gutenberg_issued: '2022-02-24'
 identifiers:
   gutenberg: '67489'
